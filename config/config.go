@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	BucketName = "go-api-uploads-vincent"
+	BucketName = "agri-file-upload"
 	Region     = "eu-north-1"
 )
 
